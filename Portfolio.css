@@ -1,0 +1,889 @@
+.mediaViewInfo {
+	--web-view-name: Portfolio;
+	--web-view-id: Portfolio;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Portfolio;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Portfolio {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Portfolio;
+	--web-view-id: Portfolio;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_18 {
+	position: absolute;
+	width: 1366px;
+	height: 771px;
+	left: 0px;
+	top: -3px;
+	overflow: visible;
+}
+#domenico-loia-EhTcC9sYXsw-unsp {
+	position: absolute;
+	width: 1363px;
+	height: 771px;
+	left: 3px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_24 {
+	fill: rgba(61,93,251,0.329);
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 771px;
+	left: 0px;
+	top: 0px;
+}
+#Group_19 {
+	position: absolute;
+	width: 523.056px;
+	height: 709.829px;
+	left: 66px;
+	top: 31.5px;
+	overflow: visible;
+}
+#Rectangle_14 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_14 {
+	filter: drop-shadow(0px 12px 42px rgba(0, 0, 0, 0.051));
+	position: absolute;
+	overflow: visible;
+	width: 649.056px;
+	height: 835.829px;
+	left: 0px;
+	top: 0px;
+}
+#IMG_4692 {
+	position: absolute;
+	width: 124px;
+	height: 119px;
+	left: 35px;
+	top: 29.5px;
+	overflow: visible;
+}
+#Intersection_3 {
+	position: absolute;
+	width: 124px;
+	height: 119px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Tejas_Tamkar {
+	left: 189px;
+	top: 65.5px;
+	position: absolute;
+	overflow: visible;
+	width: 266px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Abril Fatface;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(68,68,68,1);
+}
+#IT-Engineer_and_UIUX_Designer_ {
+	opacity: 0.5;
+	left: 40px;
+	top: 192.5px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(68,68,68,1);
+}
+#Line_4 {
+	opacity: 0.25;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 449.056px;
+	height: 1px;
+	left: 40.5px;
+	top: 233.305px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_5 {
+	position: absolute;
+	width: 53.656px;
+	height: 53.656px;
+	left: 177.239px;
+	top: 616.494px;
+	overflow: visible;
+}
+#Ellipse_1 {
+	opacity: 0.2;
+	fill: rgba(255,0,0,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 53.656px;
+	height: 53.656px;
+	left: 0px;
+	top: 0px;
+}
+#youtube {
+	opacity: 0.5;
+	position: absolute;
+	width: 29.375px;
+	height: 20.567px;
+	left: 12.148px;
+	top: 16.198px;
+	overflow: visible;
+}
+#Path_6 {
+	fill: rgba(255,0,0,1);
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 29.375px;
+	height: 20.567px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_7 {
+	fill: rgba(255,255,255,1);
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 7.646px;
+	height: 8.807px;
+	left: 11.76px;
+	top: 5.88px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_2 {
+	position: absolute;
+	width: 53.656px;
+	height: 53.656px;
+	left: 38.529px;
+	top: 616.494px;
+	overflow: visible;
+}
+#Path_8 {
+	opacity: 0.2;
+	fill: rgba(234,76,137,1);
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 53.656px;
+	height: 53.656px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-instagram {
+	fill: rgba(243,93,149,1);
+}
+.Icon_awesome-instagram {
+	overflow: visible;
+	position: absolute;
+	width: 31.518px;
+	height: 31.511px;
+	left: 12.173px;
+	top: 11.073px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_3 {
+	position: absolute;
+	width: 53.656px;
+	height: 53.656px;
+	left: 112px;
+	top: 616.5px;
+	overflow: visible;
+}
+#Ellipse_1_z {
+	opacity: 0.2;
+	fill: rgba(0,103,255,1);
+}
+.Ellipse_1_z {
+	position: absolute;
+	overflow: visible;
+	width: 53.656px;
+	height: 53.656px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_awesome-github {
+	fill: rgba(28,110,236,1);
+}
+.Icon_awesome-github {
+	overflow: visible;
+	position: absolute;
+	width: 34.875px;
+	height: 34.004px;
+	left: 9px;
+	top: 10px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_25 {
+	position: absolute;
+	width: 178px;
+	height: 309px;
+	left: 16px;
+	top: 247.5px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_25 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 178px;
+	height: 309px;
+	left: 0px;
+	top: 0px;
+}
+#BE_in_Information_Technology_- {
+	left: 17px;
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(68,68,68,1);
+}
+#SSC {
+	left: 17px;
+	top: 100px;
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(68,68,68,1);
+}
+#HSC_in_Science_- {
+	left: 17px;
+	top: 71px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(68,68,68,1);
+}
+#Group_26 {
+	position: absolute;
+	width: 480px;
+	height: 319px;
+	left: 30px;
+	top: 244.5px;
+	overflow: visible;
+}
+#Rectangle_26 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 312px;
+	height: 309px;
+	left: 168px;
+	top: 0px;
+}
+#BE_in_Information_technology_- {
+	left: 0px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 464px;
+	height: 309px;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(68,68,68,1);
+}
+#Group_24 {
+	position: absolute;
+	width: 332.938px;
+	height: 39.272px;
+	left: 683.73px;
+	top: 79.745px;
+	overflow: visible;
+}
+#Rectangle_15 {
+	fill: rgba(119,209,255,1);
+}
+.Rectangle_15 {
+	filter: drop-shadow(0px 12px 24px rgba(119, 209, 255, 0.522));
+	position: absolute;
+	overflow: visible;
+	width: 229.882px;
+	height: 110.272px;
+	left: 0px;
+	top: 1px;
+}
+#Rectangle_17 {
+	fill: rgba(68,68,68,1);
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 157.882px;
+	height: 38.272px;
+	left: 175.056px;
+	top: 0px;
+}
+#Projects {
+	left: 40.27px;
+	top: 1.255px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(68,68,68,1);
+}
+#Contact {
+	left: 215.27px;
+	top: 3.255px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Programme_Skills {
+	position: absolute;
+	width: 710px;
+	height: 284px;
+	left: 607px;
+	top: 457px;
+	overflow: visible;
+}
+#Rectangle_21 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_21 {
+	filter: drop-shadow(0px 15px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 740px;
+	height: 314px;
+	left: 0px;
+	top: 0px;
+}
+#Web_Designning_ {
+	left: 61px;
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 144px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(68,68,68,1);
+}
+#HTML {
+	position: absolute;
+	width: 482px;
+	height: 41px;
+	left: 61px;
+	top: 46px;
+	overflow: visible;
+}
+#HTML_bi {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(68,68,68,1);
+}
+#Rectangle_22 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 482px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#Rectangle_23 {
+	fill: rgba(119,209,255,1);
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 373px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#CSS {
+	position: absolute;
+	width: 482px;
+	height: 41px;
+	left: 61px;
+	top: 93px;
+	overflow: visible;
+}
+#CSS_bm {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(68,68,68,1);
+}
+#Rectangle_22_bn {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22_bn {
+	position: absolute;
+	overflow: visible;
+	width: 482px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#Rectangle_23_bo {
+	fill: rgba(119,209,255,1);
+}
+.Rectangle_23_bo {
+	position: absolute;
+	overflow: visible;
+	width: 455px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#Javascript {
+	position: absolute;
+	width: 482px;
+	height: 41px;
+	left: 61px;
+	top: 139px;
+	overflow: visible;
+}
+#JavaScript_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(68,68,68,1);
+}
+#Rectangle_22_br {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22_br {
+	position: absolute;
+	overflow: visible;
+	width: 482px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#Rectangle_23_bs {
+	fill: rgba(119,209,255,1);
+}
+.Rectangle_23_bs {
+	position: absolute;
+	overflow: visible;
+	width: 358px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#PHP {
+	position: absolute;
+	width: 482px;
+	height: 41px;
+	left: 61px;
+	top: 185px;
+	overflow: visible;
+}
+#PHP_bu {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(68,68,68,1);
+}
+#Rectangle_22_bv {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22_bv {
+	position: absolute;
+	overflow: visible;
+	width: 482px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#Rectangle_23_bw {
+	fill: rgba(119,209,255,1);
+}
+.Rectangle_23_bw {
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#Programme_Skills_bx {
+	position: absolute;
+	width: 692px;
+	height: 294px;
+	left: 625px;
+	top: 131px;
+	overflow: visible;
+}
+#Rectangle_21_by {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_21_by {
+	filter: drop-shadow(0px 15px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 722px;
+	height: 324px;
+	left: 0px;
+	top: 0px;
+}
+#Programme_Skill_ {
+	left: 61px;
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 142px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(68,68,68,1);
+}
+#Java_Bar {
+	position: absolute;
+	width: 482px;
+	height: 41px;
+	left: 61px;
+	top: 48px;
+	overflow: visible;
+}
+#Java {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(68,68,68,1);
+}
+#Rectangle_22_b {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22_b {
+	position: absolute;
+	overflow: visible;
+	width: 482px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#Rectangle_23_b {
+	fill: rgba(119,209,255,1);
+}
+.Rectangle_23_b {
+	position: absolute;
+	overflow: visible;
+	width: 373px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#CC {
+	position: absolute;
+	width: 482px;
+	height: 41px;
+	left: 61px;
+	top: 97px;
+	overflow: visible;
+}
+#CC_b {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(68,68,68,1);
+}
+#Rectangle_22_ca {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22_ca {
+	position: absolute;
+	overflow: visible;
+	width: 482px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#Rectangle_23_ca {
+	fill: rgba(119,209,255,1);
+}
+.Rectangle_23_ca {
+	position: absolute;
+	overflow: visible;
+	width: 455px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#C {
+	position: absolute;
+	width: 482px;
+	height: 41px;
+	left: 61px;
+	top: 145px;
+	overflow: visible;
+}
+#C_b {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(68,68,68,1);
+}
+#Rectangle_22_cb {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22_cb {
+	position: absolute;
+	overflow: visible;
+	width: 482px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#Rectangle_23_cb {
+	fill: rgba(119,209,255,1);
+}
+.Rectangle_23_cb {
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#Python {
+	position: absolute;
+	width: 482px;
+	height: 41px;
+	left: 61px;
+	top: 193px;
+	overflow: visible;
+}
+#Python_cd {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Cerebri Sans;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(68,68,68,1);
+}
+#Rectangle_22_ce {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22_ce {
+	position: absolute;
+	overflow: visible;
+	width: 482px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
+#Rectangle_23_cf {
+	fill: rgba(119,209,255,1);
+}
+.Rectangle_23_cf {
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	height: 13px;
+	left: 0px;
+	top: 28px;
+}
